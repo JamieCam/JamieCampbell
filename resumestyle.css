@@ -18,10 +18,10 @@ body {
 .section-label {
     background: #214954;
     color: white;
-    font-size: 0.9em;
+    font-size: 1.4em;
     display: block;
     margin-right: 70%;
-    height: 50px;
+    height: 35px;
 }
 
 #career-objective {
