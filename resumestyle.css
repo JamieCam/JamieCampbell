@@ -26,20 +26,20 @@ body {
 
 #career-objective {
     float: left;
-    width: 60%;
+    width: 55%;
 }
 
 #professional-experience {
     float: left;
-    width: 60%;
+    width: 55%;
 }
 
 #key-skills {
     float: right;
-    width: 40%;
+    width: 45%;
 }
 
 #education {
     float: right;
-    width: 40%;
+    width: 45%;
 }
